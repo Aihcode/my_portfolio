@@ -187,13 +187,13 @@ export default function Home() {
               }}
             />
             <h1 className="title f-grand big-things">
-              The Big things <br />
+              Great things start <br />
               <a className="small-things" href="mailto:hermides07@gmail.com">
-                start small
+                 as small as an atom
               </a>
               <br />
               <p>the atoms represent that!</p>
-              <p>When we started in the world of the development you not start big</p>
+              <p>When we started in the world of development we did not start big</p>
               <p>Never forget you start step by step!</p>
             </h1>
 
