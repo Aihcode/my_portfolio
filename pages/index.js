@@ -255,22 +255,37 @@ export default function Home() {
               </a>
 
               <a
-                href="https://todoapp345.herokuapp.com/"
+                href="https://moto-ride-two.vercel.app/"
                 rel="noreferrer"
                 target="_blank"
                 className="card"
               >
-                <h2>TodoApp &rarr;</h2>
-                <p>Buitl using PDO and php</p>
+                <h2>Motor Ride &rarr;</h2>
+                <p>Moto taxy and delivery platform built with NextJs and firebase</p>
               </a>
 
-              <a href="#" rel="noreferrer" target="_blank" className="card">
-                <h2>NoaTest &rarr;</h2>
+              <a href="https://zenith-crypto-gamma.vercel.app/" rel="noreferrer" target="_blank" className="card">
+                <h2>Zenith Crypto&rarr;</h2>
                 <p>
-                  Discover and deploy boilerplate form with reatc for projects.
+                  Crypto wallet web app.
                 </p>
               </a>
 
+<a href="https://minine.vercel.app/" rel="noreferrer" target="_blank" className="card">
+                <h2>Mi cine&rarr;</h2>
+                <p>
+                  web movies catalog app with external streaming players
+                </p>
+              </a>
+
+<a href="https://eventoselite.vercel.app/" rel="noreferrer" target="_blank" className="card">
+                <h2>Eventos Elite&rarr;</h2>
+                <p>
+                  web catalog of products with whatsapp integration to send order
+                </p>
+              </a>
+
+              
               <a
                 href="https://node.hermepos.com/"
                 rel="noreferrer"
