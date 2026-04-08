@@ -326,7 +326,7 @@ export default function Home() {
                 target="_blank" rel="noreferrer" className="btn btn-lg btn-primary">Book Now</a>
             </div>
             <div className="contactme__section--details">
-              <p>
+              <p> 
                 Phone: <a href="tel:+18096789456">+1 (809) 673-8436</a>
               </p>
               <p>
